@@ -57,6 +57,6 @@ crontab -e
 
 # min   hour  m/day  month  w/day   
 # 0-59  0-23  1-31   1-12   0-6
-   30   */1    *      *      *   /opt/sms2email/sms2email.sh
+   30   */4    *      *      *   /opt/sms2email/sms2email.sh
 ```
 
